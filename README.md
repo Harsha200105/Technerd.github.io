@@ -1,2 +1,2 @@
 # Technerd.github.io
-A Blogging project website.
+- A Blogging project website.
